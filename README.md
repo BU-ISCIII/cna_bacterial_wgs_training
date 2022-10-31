@@ -1,6 +1,6 @@
 # Foodborne bacterial WGS training
 
-In this training course you will find theory and practice material for introducing yourself to wgs analysis for foodborne bacteria. [Here you will find the agenda](https://usegalaxy.eu/training-material/).
+In this training course you will find theory and practice material for introducing yourself to wgs analysis for foodborne bacteria. [Here you will find the agenda](slides/Programa_CNA_wgs_20221011_v2.docx.pdf).
 
 The material includes slides with theory concepts and a practical exercises using [Galaxy trainings](), focusing on the interpretation of results.
 
