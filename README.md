@@ -22,7 +22,7 @@ The material includes slides with theory concepts and a practical exercises usin
 - **Talk 8:** [Genome assembly](slides/)
 - **Talk 9:** [Genome Annotation](slides/)
 
-- **Exercise 1**: [Introduction to Galaxy](https://usegalaxy.eu/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial_ES.html)
+- **Exercise 1**: [Introduction to Galaxy](./exercises/introduction_galaxy.md) - [Download PDF file](./exercises/introduction_galaxy.pdf)
 
 ### Day 5
 - **Talk 10:** [Alignment against reference genome and calling variants: identification of SNPs.](slides/)
@@ -34,4 +34,4 @@ The material includes slides with theory concepts and a practical exercises usin
 ### Day 6
 - **Talk 13:** [Course summary. Study of an outbreak, design, sequencing and analysis](slides/)
 
-- ** Exercise 3**: [Genome assembly in Galaxy](https://usegalaxy.eu/training-material/topics/assembly/tutorials/unicycler-assembly/tutorial.html)
+- **Exercise 3**: [Genome assembly in Galaxy](https://usegalaxy.eu/training-material/topics/assembly/tutorials/unicycler-assembly/tutorial.html)
