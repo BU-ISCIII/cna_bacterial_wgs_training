@@ -14,7 +14,7 @@ The material includes slides with theory concepts and a practical exercises usin
 
 ### Day 3
 - **Talk 4:** Quantification and pooling of libraries. Saturation normalization, qPCR and analytical sequencing. Preparation of sample sheets. IEM. Commissioning the MiSeq instrument. Quality parameters in sequencing. Charge density, Q30 and passing filters. BaseSpace
-- **Talk 5:** [Analysis of genomic data in bacteriology, options and methodologies](slides/)
+- **Talk 5:** [Analysis of genomic data in bacteriology, options and methodologies](slides/20221107_curso_CNA_SeqGenBac_session2_Analisis-Metodologias_ICuesta.pdf)
 - **Talk 6:** [Organization, storage and management of genomic data](slides/)
 
 ### Day 4
