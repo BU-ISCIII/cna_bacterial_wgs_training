@@ -19,8 +19,8 @@ The material includes slides with theory concepts and a practical exercises usin
 
 ### Day 4
 - **Talk 7:** [Genomic data quality analysis](slides/)
-- **Talk 8:** [Genome assembly](slides/)
-- **Talk 9:** [Genome Annotation](slides/)
+- **Talk 8:** [Genome assembly](slides/20221108_curso_CNA_SeqGenBac_session3.1_assembly_ICuesta.pdf)
+- **Talk 9:** [Genome Annotation](slides/20221108_curso_CNA_SeqGenBac_session3.2_annotation_ICuesta.pdf)
 
 - **Exercise 1**: [Introduction to Galaxy](./exercises/introduction_galaxy.md) - [Download PDF file](./exercises/introduction_galaxy.pdf)
 
