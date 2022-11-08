@@ -34,4 +34,4 @@ The material includes slides with theory concepts and a practical exercises usin
 ### Day 6
 - **Talk 13:** [Course summary. Study of an outbreak, design, sequencing and analysis](slides/)
 
-- **Exercise 3**: [Genome assembly in Galaxy](https://usegalaxy.eu/training-material/topics/assembly/tutorials/unicycler-assembly/tutorial.html)
+- **Exercise 3**: [Genome assembly in Galaxy](https://usegalaxy.eu/training-material/topics/assembly/tutorials/unicycler-assembly/tutorial.html) and [Annotation of prokaryotic genomes in Galaxy](https://usegalaxy.eu/training-material/topics/genome-annotation/tutorials/annotation-with-prokka/tutorial.html)
