@@ -26,7 +26,7 @@ The material includes slides with theory concepts and a practical exercises usin
 
 ### Day 5
 - **Talk 10:** [Alignment against reference genome and calling variants: identification of SNPs.](slides/curso_cna_MappingAndVariantCalling.pdf)
-- **Talk 11:** [Typing based on allelic profile or gene by gene](slides/)
+- **Talk 11:** [Typing based on allelic profile or gene by gene](slides/20221109_curso_CNA_SeqGenBac_session4.1_tipificacion-gen-by-gene_ICuesta.pdf)
 - **Talk 12:** [Gene-by-gene approach vs SNPs](slides/curso_cna__GeneByGenevsSNPs.pdf)
 
 - **Exercise 2**: [Quality control in Galaxy](https://usegalaxy.eu/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)
