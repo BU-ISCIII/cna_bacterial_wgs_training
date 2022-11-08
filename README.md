@@ -35,3 +35,5 @@ The material includes slides with theory concepts and a practical exercises usin
 - **Talk 13:** [Course summary. Study of an outbreak, design, sequencing and analysis](slides/)
 
 - **Exercise 3**: [Genome assembly and annotation of prokaryotic in Galaxy](https://usegalaxy.eu/training-material/topics/assembly/tutorials/unicycler-assembly/tutorial.html)
+
+Course queue: https://usegalaxy.eu/join-training/virologist_isciii
