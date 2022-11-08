@@ -18,7 +18,7 @@ The material includes slides with theory concepts and a practical exercises usin
 - **Talk 6:** [Organization, storage and management of genomic data](slides/curso_cna_bact_organizacion_computo_genomica.pdf)
 
 ### Day 4
-- **Talk 7:** [Genomic data quality analysis](slides/)
+- **Talk 7:** [Genomic data quality analysis](slides/curso_cna_quality_assesment.pdf)
 - **Talk 8:** [Genome assembly](slides/20221108_curso_CNA_SeqGenBac_session3.1_assembly_ICuesta.pdf)
 - **Talk 9:** [Genome Annotation](slides/20221108_curso_CNA_SeqGenBac_session3.2_annotation_ICuesta.pdf)
 
