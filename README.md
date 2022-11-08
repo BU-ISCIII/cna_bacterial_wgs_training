@@ -25,9 +25,9 @@ The material includes slides with theory concepts and a practical exercises usin
 - **Exercise 1**: [Introduction to Galaxy](./exercises/introduction_galaxy.md) - [Download PDF file](./exercises/introduction_galaxy.pdf)
 
 ### Day 5
-- **Talk 10:** [Alignment against reference genome and calling variants: identification of SNPs.](slides/)
+- **Talk 10:** [Alignment against reference genome and calling variants: identification of SNPs.](slides/curso_cna_MappingAndVariantCalling.pdf)
 - **Talk 11:** [Typing based on allelic profile or gene by gene](slides/)
-- **Talk 12:** [Gene-by-gene approach vs SNPs](slides/)
+- **Talk 12:** [Gene-by-gene approach vs SNPs](slides/curso_cna__GeneByGenevsSNPs.pdf)
 
 - **Exercise 2**: [Quality control in Galaxy](https://usegalaxy.eu/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)
 
